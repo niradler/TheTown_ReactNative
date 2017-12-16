@@ -1,0 +1,25 @@
+{
+  "expo": {
+    "name": "TheTown",
+    "description": "The Town God!",
+    "slug": "the-town",
+    "privacy": "public",
+    "sdkVersion": "24.0.0",
+    "platforms": ["ios", "android"],
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.niradler.thetown"
+    },
+    "android": {
+      "package": "com.niradler.thetown"
+    }
+  }
+}
